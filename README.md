@@ -1,5 +1,5 @@
 # fun-with-cryptography
-<h1> Symetric Cryptography </h1>
+<h2> 1. Symetric Cryptography </h2>
     <h3> Caesar-Cipher Implementation <h3>
         <ul>
             <li> Encryption </li>
