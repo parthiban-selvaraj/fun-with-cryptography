@@ -15,5 +15,5 @@ def crackCipher(cipherText):
         print('for key: %s, the result is: %s' %(key, plainText))
 
 if __name__ == '__main__' :
-    encrypted = 'RCTVJKDCP'
+    encrypted = 'RCTVJKDCP' # Equals to PARTHIBAN
     crackCipher(encrypted)
