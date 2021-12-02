@@ -13,3 +13,8 @@
             <li> Encryption </li>
             <li> Decryption </li>
         </ul>
+    <h3> One Time Pad Implementation <h3>
+        <ul>
+            <li> Encryption </li>
+            <li> Decryption </li>
+        </ul>
